@@ -159,3 +159,4 @@ Edita las variables CSS en la sección `<style>` del `index.html`:
 ```css
 /* Cambia los gradientes */
 background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+## 📁 Estructura del Proyecto
